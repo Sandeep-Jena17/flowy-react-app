@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sandeep-Jena17/flowy-react-app/static/css/main.8e6417a8.chunk.css",
+    "main.js": "/Sandeep-Jena17/flowy-react-app/static/js/main.9fa3aa58.chunk.js",
+    "main.js.map": "/Sandeep-Jena17/flowy-react-app/static/js/main.9fa3aa58.chunk.js.map",
+    "runtime-main.js": "/Sandeep-Jena17/flowy-react-app/static/js/runtime-main.4142e4e1.js",
+    "runtime-main.js.map": "/Sandeep-Jena17/flowy-react-app/static/js/runtime-main.4142e4e1.js.map",
+    "static/js/2.86d79a34.chunk.js": "/Sandeep-Jena17/flowy-react-app/static/js/2.86d79a34.chunk.js",
+    "static/js/2.86d79a34.chunk.js.map": "/Sandeep-Jena17/flowy-react-app/static/js/2.86d79a34.chunk.js.map",
+    "index.html": "/Sandeep-Jena17/flowy-react-app/index.html",
+    "static/css/main.8e6417a8.chunk.css.map": "/Sandeep-Jena17/flowy-react-app/static/css/main.8e6417a8.chunk.css.map",
+    "static/js/2.86d79a34.chunk.js.LICENSE.txt": "/Sandeep-Jena17/flowy-react-app/static/js/2.86d79a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4142e4e1.js",
+    "static/js/2.86d79a34.chunk.js",
+    "static/css/main.8e6417a8.chunk.css",
+    "static/js/main.9fa3aa58.chunk.js"
+  ]
+}
